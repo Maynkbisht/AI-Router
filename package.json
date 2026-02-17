@@ -1,0 +1,8 @@
+{
+  "name": "meta-ai-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "open http://localhost:5010 && echo 'Opened http://localhost:5010 in your browser'"
+  }
+}
