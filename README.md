@@ -100,7 +100,7 @@ export SECRET_KEY="your-secret-key"
 ### 3. Run the Application
 
 ```bash
-python app.py
+npm start 
 ```
 
 The app starts on `http://localhost:5010`
@@ -431,3 +431,4 @@ To add a new provider:
 ---
 
 **Made with ❤️ for seamless AI routing**
+
